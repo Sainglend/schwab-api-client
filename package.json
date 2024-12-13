@@ -1,6 +1,6 @@
 {
   "name": "schwab-api-client",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A client for accessing Schwab's Trader and Marketdata API for Individuals",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
